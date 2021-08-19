@@ -37,7 +37,7 @@ What has enchanted me the most is working with projects, that need innovation an
   
 - ✨ Behance Link below
 
-<a href="https://www.behance.net/gabrielguimara14/projects">
+&nbsp;&nbsp;<a href="https://www.behance.net/gabrielguimara14/projects">
 <code><img alt="My linkedin" width="32" src="https://theme.zdassets.com/theme_assets/14924/dd81866313a14350e03e7e86f9701cdc8bc143ce.png" /></code>
 </a>    
 
