@@ -11,7 +11,7 @@ What has enchanted me the most is working with projects, that need innovation an
 <br>
 
 ## 👩‍💻 About me
-* <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
+* 🇧🇷 I'm from Brazil
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Web Software Programming
 * <img width="24" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/angular_icon_130993.png" alt="" /> My favorite programming language is Angular
 * <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> As a challenge enthusiastic, I am diving into the web programming world !
