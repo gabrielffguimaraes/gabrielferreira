@@ -4,7 +4,7 @@
 
 <p>I'm a fullstack developer focused on Backend and Frontend development <strong><a href="https://microsoft.com/">Angular & Java </a></strong>. 
 
-I've been working with technology since 2019, and during this time I worked with the most diverse types of projects like: e-commerce programming, web programming, library systems, ERP softwares and hospital systems nowadays . 
+I've been working with technology since 2019, and during this time I worked with the most diverse types of projects like: e-commerce programming, web programming, library systems, ERP softwares, hospital systems etc . 
 
 What has enchanted me the most is working with projects, that need innovation and complex solutions and beautiful systems interfaces, worring always with user experience to solve big problems, impacting all society and making the world a better place.
 
